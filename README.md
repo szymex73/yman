@@ -1,0 +1,2 @@
+# yman
+Yakuake session management
